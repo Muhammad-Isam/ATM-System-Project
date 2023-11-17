@@ -1,0 +1,15 @@
+Account name: Sofia Haider
+Account number: 57892122
+Account pin: 2244
+Account balance: Rs 256000
+
+Account name: Muhammad Isam
+Account number: 44229982
+Account pin: 6004
+Account balance: Rs 52500
+
+Account name: Zobia Gul
+Account number: 66945678
+Account pin: 9870
+Account balance: Rs 201460
+
